@@ -6,8 +6,8 @@
 - 🌱 Learning MERN stack
 
 ### Contact Me:
-- LinkedIn: <a href="http://linkedin.com/in/evealex">LinkedIn</a>
-- Portfolio: <a href="http://evealexis.github.io/">View Here</a>
+- 👤 LinkedIn: <a href="http://linkedin.com/in/evealex">View Here</a>
+- 📌 Portfolio: <a href="http://evealexis.github.io/">View Here</a>
 
 ### Skills I know:
 - Javascript
