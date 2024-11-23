@@ -11,8 +11,8 @@
 
 ### Skills I know:
 - Javascript
+- React + Typescript
 - SQL
 - Python
 - Flask
-- CSS3 / SCSS
-- HTML5
+- HTML5 / CSS3 / SCSS
