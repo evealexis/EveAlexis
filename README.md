@@ -1,9 +1,9 @@
 ## Hi there I'm Eve! 👋
 
 ### Currently:
-- 💻 Freelance Software Developer
+- 💻 Aspiring Software Developer
 - 🔨 Building <a href="https://christmas-website-evealexis-projects.vercel.app/">ChristmasWebsite</a>
-- 🌱 Learning MERN stack
+- 🌱 Learning React + Typescript
 
 ### Contact Me:
 - 👤 LinkedIn: <a href="http://linkedin.com/in/evealex">View Here</a>
