@@ -2,7 +2,7 @@
 
 ### Currently:
 - 💻 Aspiring Software Developer
-- 🔨 Building <a href="https://christmas-website-evealexis-projects.vercel.app/">ChristmasWebsite</a>
+- 🔨 Building <a href="https://christmas-generator.vercel.app/">Christmas Generator</a>❄️
 - 🌱 Learning React + Typescript
 
 ### Contact Me:
