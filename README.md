@@ -9,7 +9,7 @@
 - 👤 LinkedIn: <a href="http://linkedin.com/in/evealex">View Here</a>
 - 📌 Portfolio: <a href="http://evealexis.github.io/">View Here</a>
 
-### Skills I know:
+### My Skills:
 - Javascript
 - React + Typescript
 - SQL
