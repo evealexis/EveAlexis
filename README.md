@@ -3,7 +3,6 @@
 ### Currently:
 - 💻 Aspiring Software Developer
 - 🔨 Building Websites
-- 🌱 Learning React + Typescript
 
 ### Contact Me:
 - 👤 LinkedIn: <a href="http://linkedin.com/in/evealex">View Here</a>
@@ -11,8 +10,9 @@
 
 ### My Skills:
 - Javascript
-- React + Typescript
-- SQL
 - Python
+- Django
+- SQL
+- React + Typescript
 - Flask
-- HTML5 / CSS3 / SCSS
+- HTML5 / CSS3 / SCSS / TailwindCSS
