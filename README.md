@@ -1,8 +1,5 @@
-## Hi there I'm Eve! 👋
-
-### Currently:
-- 💻 Aspiring Software Developer
-- 🔨 Building Websites
+## Hi there! 👋
+My name is Alicia (Ah-liss-eeya) Eve and I am an aspiring Software Developer!
 
 ### Contact Me:
 - 👤 LinkedIn: <a href="http://linkedin.com/in/evealex">View Here</a>
